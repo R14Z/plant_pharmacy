@@ -1,0 +1,23 @@
+body {
+    overflow-x: hidden; /* hides the vertical bar */ 
+}
+
+.big_text { 
+    position: absolute;
+    left: 36.5%;
+    top: 19%;
+}
+
+#home { 
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    left: 90rem;
+    top: 1.5rem; 
+}
+
+#sesh {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    left: 99rem;
+    top: 1.5rem;     
+}
